@@ -1,4 +1,5 @@
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/alaayasser741/alaayasser741/blob/main/coding-freak.gif?raw=true" width="500" height="320" />
+
 
 ## Hi I'm Alaa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -39,7 +40,7 @@ I'm Alaa Yasser a Full Front-End Developer and Graphic Designer . I Spend most o
 
 <br />
 <br />
-
+ <img align="right" alt="GIF" src="https://github.com/alaayasser741/alaayasser741/blob/main/Tired%20of%20studying_.gif?raw=true" width="500" height="320" />
 #### Bizness
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - :email: alaayasser2018@gmail.com
