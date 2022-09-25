@@ -1,5 +1,5 @@
  <img src="https://media-exp1.licdn.com/dms/image/C5612AQER3ruhPkcB8g/article-cover_image-shrink_600_2000/0/1587017197851?e=1669852800&v=beta&t=QGwpbsTYx7tItYgEQJu5Vgw2KymelF19ETlF9R53D_g" width="100%" >
- <br /><br /><br />
+ <br />
  <img align="right" alt="GIF" src="https://github.com/alaayasser741/alaayasser741/blob/main/coding-freak.gif?raw=true" width="500" height="320" />
 
 
