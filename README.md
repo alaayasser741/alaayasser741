@@ -33,7 +33,7 @@ I'm Alaa Yasser a Full Front-End Developer and Graphic Designer . I Spend most o
  
 <br />
 <br />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaayasser741" alt="alaayasser741" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaayasser741&theme=onedark" alt="alaayasser741" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/alaayasser741" target="blank"><img src="https://img.shields.io/twitter/follow/alaayasser741?logo=twitter&style=for-the-badge" alt="alaayasser741" /></a> </p>
 <br />
