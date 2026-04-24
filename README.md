@@ -1,65 +1,134 @@
- <img src="https://raw.githubusercontent.com/hyjoong/hyjoong/98c354d1a27ab94b95dd6f1e95980e1fd6a3189b/github-contribution-grid-snake.svg" width="100%" >
- <br />
- <img align="right" alt="GIF" src="https://github.com/alaayasser741/alaayasser741/blob/main/coding-freak.gif?raw=true" width="500" height="320" />
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hyjoong/hyjoong/98c354d1a27ab94b95dd6f1e95980e1fd6a3189b/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+# Hi, I'm Alaa Yasser 👋
+
+**Front-End Engineer** specializing in React.js · Next.js · TypeScript
 
 
-## Hi I'm Alaa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaayasser741)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaaabdullah.dev@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alaayasser17)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaayasser741)
 
-I'm Alaa Yasser a Full Front-End Developer and Graphic Designer . I Spend most of time coding  or Design new Projects.
+![Profile Views](https://komarev.com/ghpvc/?username=alaayasser741&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-:mailbox: Reach me out!
+</div>
 
- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+---
 
-<!-- TODO: Add last video link -->
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working at a Freelancer
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for make something new and big in programming world.
-- 📫 How to reach me: alaayasser2018@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+```ts
+const alaa = {
+  role     : "Front-End Engineer",
+  location : "Cairo, Egypt 🇪🇬",
+  skills   : ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux Toolkit", "Firebase"],
+  status   : "Open to work — Remote · Hybrid · On-site (incl. Dubai & Saudi Arabia)",
+  learning : "System Design · DSA · Advanced Patterns",
+  funFact  : "I debug by day, game by night 🎮",
+};
+```
 
-#### Top Technologies
+I'm passionate about building **fast, scalable, and beautiful** web experiences.
+I care deeply about clean architecture, great DX, and turning designs into **pixel-perfect reality**.
+Holder of the 🏅 **Meta Advanced React Certificate**.
 
-<!-- TODO: Make technologies links takes you to repositories -->
+---
 
+## 🚀 Tech Stack
 
-<br />
-<br />
+**Frontend**
 
-### Bizness
-<!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
-- :email: alaayasser2018@gmail.com
- 
-<br />
-<br />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaayasser741&theme=onedark" alt="alaayasser741" /></a> </p>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p align="left"> <a href="https://twitter.com/alaayasser741" target="blank"><img src="https://img.shields.io/twitter/follow/alaayasser741?logo=twitter&style=for-the-badge" alt="alaayasser741" /></a> </p>
-<br />
+**Styling**
 
-#### Profile Visits
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alaayasser741.alaayasser741)
-<br />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alaayasser741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaayasser741" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alaayasser741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaayasser741" height="30" width="40" /></a>
-<a href="https://fb.com/alaayasser741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaayasser741" height="30" width="40" /></a>
-<a href="https://instagram.com/3laa_yasser17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3laa_yasser17" height="30" width="40" /></a>
-<a href="https://www.behance.net/alaayasser17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alaayasser17" height="30" width="40" /></a>
-<a href="https://discord.gg/Night King #7597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Night King #7597" height="30" width="40" /></a>
-</p>
-<br />
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<br /><br /> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaayasser741&theme=dark&show_icons=true&locale=en&layout=compact" alt="alaayasser741" /></p>
-<br /><br /><br /><br /><br /><br /><br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaayasser741&theme=dark&show_icons=true&locale=en" alt="alaayasser741" /></p>
-<br />
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaayasser741&" alt="alaayasser741" /></p>
-<p> -->
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alaayasser741&theme=dark&exclude_days=Thu%2CFri" alt="GitHub Streak" /></a>
-</p>
+**State & Backend**
+
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ Gritizer</h3>
+      <p><strong>Fitness SaaS Platform</strong></p>
+      <p>A full-featured platform for coaches and athletes — workout planning, progress tracking, and subscription management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ Stabena</h3>
+      <p><strong>E-Commerce Platform</strong></p>
+      <p>A production-grade storefront with product catalog, cart, and checkout flows — optimized for performance and UX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alaayasser741&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaayasser741&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alaayasser741&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🎮 I play games and hit the gym regularly
+- 💡 Most used git command: `git commit -m "Initial Commit"`
+- 🧩 I enjoy turning complex UI designs into clean, maintainable code
+- 📚 Currently leveling up: **DSA · System Design**
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
